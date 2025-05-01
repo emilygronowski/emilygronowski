@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/emilygronowski"><img src="https://api.daily.dev/devcards/v2/PZQIXShyae6hfmSNSnh9t.png?r=eqe" width="356" alt="Emily Gronowski's Dev Card"/></a>
+<a href="https://app.daily.dev/emilygronowski"><img src="./devcard.png" width="356" alt="Emily Gronowski's Dev Card"/></a>
